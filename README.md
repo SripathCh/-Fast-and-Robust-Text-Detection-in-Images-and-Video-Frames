@@ -13,3 +13,5 @@ This repository contains a computer vision project focused on text detection fro
 - **Text Detection in Images:** Utilizes OpenCV and other libraries to detect text within various images.
 - **Text Detection in Videos:** Extends the text detection capability to real-time video streams.
 - **Extensive Documentation:** Comprehensive guide and explanation of the methodologies used, available in `Documentation.pdf`.
+
+**Note**: This code and repository are for showcasing my projects and are not intended for external use. 
